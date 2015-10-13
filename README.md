@@ -1,2 +1,1 @@
-# datasciencecoursera-
-print "This is a test repo."
+# datasciencecoursera- This is a test repo.
